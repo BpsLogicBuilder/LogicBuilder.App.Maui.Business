@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/_Solution Items/">
+    <File Path="global.json" />
+  </Folder>
+  <Project Path="LogicBuilder.App.Maui.Business.Tests/LogicBuilder.App.Maui.Business.Tests.csproj" />
+  <Project Path="LogicBuilder.App.Maui.Business/LogicBuilder.App.Maui.Business.csproj" />
+</Solution>
