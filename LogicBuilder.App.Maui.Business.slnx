@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/_Solution Items/">
+    <File Path="CHANGELOG.md" />
     <File Path="global.json" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="LogicBuilder.App.Maui.Business.Tests/LogicBuilder.App.Maui.Business.Tests.csproj" />
   <Project Path="LogicBuilder.App.Maui.Business/LogicBuilder.App.Maui.Business.csproj" />
