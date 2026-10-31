@@ -1,5 +1,11 @@
 # LogicBuilder.App.Maui.Business
 
+[![CI](https://github.com/BpsLogicBuilder/chat-hubLogicBuilder.App.Maui.Business/actions/workflows/ci.yml/badge.svg)](https://github.com/BpsLogicBuilder/chat-hubLogicBuilder.App.Maui.Business/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/BpsLogicBuilder/chat-hubLogicBuilder.App.Maui.Business/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/BpsLogicBuilder/chat-hubLogicBuilder.App.Maui.Business/actions/workflows/github-code-scanning/codeql)
+[![codecov](https://codecov.io/github/BpsLogicBuilder/chat-hubLogicBuilder.App.Maui.Business/graph/badge.svg?token=IOIUGYRI8W)](https://codecov.io/github/BpsLogicBuilder/chat-hubLogicBuilder.App.Maui.Business)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=BpsLogicBuilder_chat-hubLogicBuilder.App.Maui.Business&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=BpsLogicBuilder_chat-hubLogicBuilder.App.Maui.Business)
+[![NuGet](https://img.shields.io/nuget/v/chat-hubLogicBuilder.App.Maui.Business.svg)](https://www.nuget.org/packages/chat-hubLogicBuilder.App.Maui.Business)
+
 A .NET Standard 2.0 library that defines the shared contracts (business objects) used by different MAUI client applications to interact with a workflow defined in [Logic Builder](https://github.com/BpsLogicBuilder/LogicBuilder). It consolidates the flow metadata structures so that a MAUI client and the service hosting the flow exchange the same types.
 
 The library depends on `LogicBuilder.App.Maui.Forms.Configuration`, which supplies the form, command button and navigation bar descriptors referenced by these types.
